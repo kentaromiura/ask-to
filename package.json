@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "...",
   "main": "index.js",
-  "repository": "http://github.com/kentaromiura/ask-to",
+  "repository": "https://github.com/kentaromiura/ask-to",
   "author": "Carlesso Cristian <@kentaromiura>",
   "license": "MIT",
   "devDependencies": {
