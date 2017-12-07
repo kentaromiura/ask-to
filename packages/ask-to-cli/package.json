@@ -1,0 +1,9 @@
+{
+  "name": "ask-to-cli",
+  "version": "0.0.1",
+  "description": "...",
+  "main": "index.js",
+  "repository": "http://github.com/kentaromiura/ask-to",
+  "author": "Carlesso Cristian <@kentaromiura>",
+  "license": "MIT"
+}
